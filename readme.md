@@ -1,6 +1,6 @@
 # Generalized Neural Closure Models with Interpretability
 
-**Source code**: This directory contains the source code for Generalized Neural Closure Models with Interpretability, available on arXiv: http://arxiv.org/abs/xxxx.xxxxx
+**Source code**: This directory contains the source code for Generalized Neural Closure Models with Interpretability, published in Nature Scientific Reports: [https://www.nature.com/articles/s41598-023-35319-w](https://www.nature.com/articles/s41598-023-35319-w)
 
 **Data sets**: Data is re-generated everytime before training for each of the experiments. However, all the runs used in the results and discussion section could be found here: http://mseas.mit.edu/download/guptaa/Generalized_nCM_paper_final_runs/
 
